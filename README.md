@@ -1,5 +1,5 @@
 # KompresGambar
-Membuat Aplikasi Kompres Gambar dengan Android Studio
+Membuat Aplikasi Kompres Gambar dengan Android Studio tanpa mengurangi kualitas gambar aslinya.
 
 # Tutorial Build with Android Studio
 https://youtu.be/JkjROawwJu8
